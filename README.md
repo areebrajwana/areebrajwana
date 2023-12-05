@@ -1,6 +1,7 @@
 <p align="center">
-   <a href="https://github.com/RuberDukcy">
-    <img src="https://i.ibb.co/HnF3K8X/jhon-tyrell-cyberpunk-advance-robot-standing-distinct-earth-b8904f4a-364f-4c53-9122-779fed9c5693.png" width="900"> </a>
+   <a href="https://github.com/areebrajwana">
+     <img src="https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png" width="200">
+    <img src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png" width="500">
     </p>
 
 <div align="center">
