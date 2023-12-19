@@ -14,9 +14,9 @@
 <br>
 
 # About Me
-  I'm a ***Flutter developer*** from Pakistan who loves Flutter.
-  Currently working as ***Flutter Developer*** at [AKodes IT Solutions](https://www.akodes.com/).
-  I'm trying my best to increase my skill set while working in IT industry including personal growth.
+  I'm a ***Flutter developer*** from Pakistan who loves Flutter.<br>
+  Currently working as ***Flutter Developer*** at [AKodes IT Solutions](https://www.akodes.com/).<br>
+  I'm trying my best to increase my skill set while working in IT industry including personal growth.<br>
   I'm passionate about making open source projects that will be useful to people also free to use.
 
 
@@ -49,5 +49,5 @@ target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gi
 
 <br>
 
-#### If you have any queries or suggestions then feel free to contact me. I will be happy to respond. 
+#### If you have any queries or suggestions then feel free to contact me.
 <br>
