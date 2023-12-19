@@ -13,7 +13,7 @@
 <br>
 <br>
 
-# About Me:
+# About Me
 -  I'm a ***Flutter developer*** from Pakistan who loves Flutter.
 -  Currently ***Flutter Developer*** at [AKodes IT Solutions](https://www.akodes.com/).
 -  Trying my best to increase my skill set while working in IT industry including personal growth.
@@ -43,7 +43,7 @@ target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gi
 <br>
 <br>
 
-# How to reach me:
+# How to reach me
 [![My WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9230471112243)
 [![MY LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areebrajwana/) 
 
