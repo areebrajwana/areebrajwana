@@ -14,7 +14,7 @@
 <br>
 
 # About Me:
--  I'm a ***Flutter developer*** pakistan who loves Flutter.
+-  I'm a ***Flutter developer*** who loves Flutter.
 -  Currently ***Flutter Developer*** at [AKodes IT Solutions](https://www.akodes.com/).
 -  Trying my best to increase my skill set while working in IT industry including personal growth.
 -  I'm passionate about making open source projects that will be useful to people also free to use.
